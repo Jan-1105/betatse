@@ -1,0 +1,7 @@
+{
+  "name": "DigitalCitizenAnalytics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
